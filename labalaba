@@ -1,0 +1,2 @@
+print(getgenv().SwordEquipped)
+getgenv().SwordEquipped = true
